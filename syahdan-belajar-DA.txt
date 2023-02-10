@@ -2,7 +2,10 @@ RENCANA DATA ANALYS
 
 -analis1
 *bla bla bla
+  ^blu blu blu
 -analisi1.5
 -analis2
+  ^ble ble
 -analis3
+ ^blo blo
 -analis4
