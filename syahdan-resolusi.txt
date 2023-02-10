@@ -2,4 +2,4 @@ SYAHDAN RESOLUSI
 - Konsisten belajar tentang web FRONT-END 
 - Konsisten belajar tentang web BACK-END
 - Konsisten belajar tentang UI/UX
-- ingin magang MSIB
+- membuat web besar
